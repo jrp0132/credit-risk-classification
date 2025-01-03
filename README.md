@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 
-The purpose of this analysis was to use machine learning to predict the creditworthiness of borrowers based on historical lending data from a peer-to-peer lending services company. Specifically, we aimed to classify loans into two categories: healthy loans (0) and high-risk loans (1).
+The purpose of this analysis was to use machine learning to predict the creditworthiness of borrowers based on historical lending data from a peer-to-peer lending services company. Specifically, aiming to classify loans into two categories: healthy loans (0) and high-risk loans (1).
 
 The dataset included financial information such as loan size, interest rate, borrower income, debt-to-income ratio, the number of accounts, derogatory marks, and total debt. The target variable was loan_status, where:
 
