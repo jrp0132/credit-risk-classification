@@ -17,14 +17,14 @@ Key stages of the machine learning process included:
 
 ## Results
 
-Logistic Regression Model:
-  * Accuracy: 99%
-Healthy Loans (0):
-  * Precision: 100%
-  * Recall: 100%
-High-Risk Loans (1):
-  * Precision: 86%
-  * Recall: 91%
+* Logistic Regression Model:
+   * Accuracy: 99%
+* Healthy Loans (0):
+   * Precision: 100%
+   * Recall: 100%
+* High-Risk Loans (1):
+   * Precision: 86%
+   * Recall: 91%
 
 ## Summary
 
